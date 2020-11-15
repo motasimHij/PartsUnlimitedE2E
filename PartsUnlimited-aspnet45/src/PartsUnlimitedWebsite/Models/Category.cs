@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-//CommentsTest Issue #3
+//Comments Change Category.cs
 namespace PartsUnlimited.Models
 {
     public class Category
